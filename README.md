@@ -4,7 +4,7 @@ This repository contains all data and code used in the manuscript entitled:
 
 Ecological network complexity scales with area (Nature Ecology and Evolution).
 
-N�ria Galiana, Miguel Lurgi, Vinicius A. G. Bastazini, Jordi Bosch, Luciano Cagnolo, Kevin Cazelles, Bernat Claramunt-L�pez, Carine Emer, Marie-Jos�e Fortin, Ingo Grass, Carlos Hern�ndez-Castellano, Frank Jauker, Shawn J. Leroux, Kevin McCann, Anne M. McLeod, Daniel Montoya, Christian Mulder, Sergio Osorio-Canadas, Sara Revert�, Anselm Rodrigo, Ingolf Steffan-Dewenter, Anna Traveset, Sergi Valverde, Diego P. V�zquez, Spencer A. Wood, Dominique Gravel, Tomas Roslin, Wilfried Thuiller and Jos� M. Montoya.
+Nuria Galiana, Miguel Lurgi, Vinicius A. G. Bastazini, Jordi Bosch, Luciano Cagnolo, Kevin Cazelles, Bernat Claramunt-Lopez, Carine Emer, Marie-Josee Fortin, Ingo Grass, Carlos Hernandez-Castellano, Frank Jauker, Shawn J. Leroux, Kevin McCann, Anne M. McLeod, Daniel Montoya, Christian Mulder, Sergio Osorio-Canadas, Sara Reverte, Anselm Rodrigo, Ingolf Steffan-Dewenter, Anna Traveset, Sergi Valverde, Diego P. V�zquez, Spencer A. Wood, Dominique Gravel, Tomas Roslin, Wilfried Thuiller and Jos� M. Montoya.
 
 Starts here!
 
@@ -89,7 +89,7 @@ Additionally, we provide .csv files with the outputs of the already processed da
 the figures or perform the analyses without having to generate the network-area relationships. So 'merged_biogeographical-data.csv' 
 and 'merged_datasets_replicates.csv' (and the respective null model .csv files) contain for all data sets the value of each network property at each spatial extent. Finally, 'merged_biogeographical-data-random.csv' contains the values of each network property at each spatial extent for the biogeographical data, where the different spatial units were randomly aggregated.   
 
-I hope you enjoy the code!
+We hope you enjoy the code!
 
 If you have any questions / run into any issues, please contact us at miguel.lurgi@swansea.ac.uk or galiana.nuria@gmail.com
 
